@@ -59,6 +59,7 @@
 # 
 # Creative Commons may be contacted at http://creativecommons.org/.
 ################################ ezPM v.2.0 by Evan Zamir ########################################
+#test github
 class Player	
 	attr_reader :id,:key,:full_name,:team,:position,:start_date,:end_date,:pos,
 	:pos1,:pos2,:pos3,:pos4,:pos5,
